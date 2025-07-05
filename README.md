@@ -32,7 +32,7 @@ I built this project using **React (via CDN)** to practice state management and 
 
 
 ## 🎥 Preview
-`coming soon`
+https://github.com/user-attachments/assets/ed04a4a8-c0a7-426b-b41c-a892fa2e083c
 
 ## ⚙️ How to Run
 1. Clone the repository.
