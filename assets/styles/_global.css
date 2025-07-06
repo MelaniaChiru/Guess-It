@@ -1,0 +1,19 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: var(--dark-blue);
+	width: 100vw;
+	height: 100vh;
+	color: var(--light-blue);
+	font-family: 'truculenta', sans-serif;
+	display: grid;
+	place-items: center;
+}	
+
+.hidden {
+	display: none;
+}
